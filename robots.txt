@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fplae.github.io/ywB/sitemap.ywB.gz
